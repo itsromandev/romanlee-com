@@ -4,4 +4,8 @@
 
 ### Header 3
 
-[Contribution guidelines for this project](docs/main.md)
+```
+git status
+git add
+git commit
+```
