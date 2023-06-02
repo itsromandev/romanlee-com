@@ -4,6 +4,6 @@
 
 ### Header 3
 
-```
+```csharp
 public static void Main(string[] args);
 ```
