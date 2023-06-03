@@ -8,4 +8,4 @@
 public static void Main(string[] args);
 ```
 
-![#f03c15]Colored word `#f03c15`
+![#f03c15] Colored word `#f03c15`
