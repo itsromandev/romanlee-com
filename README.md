@@ -8,4 +8,4 @@
 public static void Main(string[] args);
 ```
 
-<div style="color:orange;">Word up</div>
+Colored word `#f03c15`
