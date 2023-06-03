@@ -8,4 +8,10 @@
 public static void Main(string[] args);
 ```
 
--![#f03c15](Colored word) `#f03c15`
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
